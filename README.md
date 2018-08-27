@@ -1,7 +1,7 @@
 # AI-Programming-python
 Image classification
 
-This is an AI application used python langauge to train machine, recognize and predict flower images with associated name.
+This is an AI application used python langauge to train machine, and predict flower images with associated name.
 ---------------------------------------------------------------------------------------------------------------------------
 This project completed under the guideline of udacity AI-Programming python.
 The jupyternote book apply the model of vgg16 to train the machine.
